@@ -34,7 +34,7 @@
 --     -- PRIMARY KEY (CRN)
 -- );
 
--- LOAD DATA INFILE 'F:\\Files_From_Computer\\Documents\\College\\Compsci\\Advanced Topics Systems\\EzRoll\\2021-2022_Course_schedule.csv' 
+-- LOAD DATA INFILE '2021-2022_Course_schedule.csv' 
 -- INTO TABLE Classes 
 -- FIELDS TERMINATED BY ',' 
 -- ENCLOSED BY '"'
